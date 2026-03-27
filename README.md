@@ -54,8 +54,6 @@ I enjoy breaking and securing systems to understand how they really work
   <img src="https://github-profile-trophy.vercel.app/?username=SRM8847&theme=onestar&no-frame=true&row=1&column=6"/>
 </p>
 
----
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SRM8847&theme=react-dark)
 
 ---
 
